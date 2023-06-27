@@ -3,7 +3,7 @@
 <!--
 **Dannyowk30/Dannyowk30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I'm a trainee at the IT department of PMT, the largest mass transit and logistic company in West and Central Africa with over 3,000 vehicles and 5,000 manpower. I am also a #PrismaAmbassadors and an #AWScommunity Builder
+I'm a trainee at the IT department of PMT, the largest mass transit and logistic company in West and Central Africa with over 3,000 vehicles and 5,000 manpower.
 
 I have 1+ years experience as a developer creating solutions, writing software, building teams and developing businesses with these technologies:
 
