@@ -18,7 +18,7 @@ I have 1+ years experience as a developer creating solutions, writing software, 
 - 🔭 I’m currently working at [PMT.ng](https://pmt.ng/) as an intern.
 - 🌱 I’m currently learning typescript | cloud engineering | Leadership.
 - 👯 I’m looking to collaborate on any business project and cyber-security testing.
-- 🤔 I’m looking for help with web-design (front-end and back-end).
+- 🤔 I’m looking for help with web-design and development (front-end and back-end).
 - 💬 Ask me about creating a software.
 - 📫 How to reach me: [Twitter](https://twitter.com/el_daxxy).
 - 😄 Pronouns: He / Him 
