@@ -24,7 +24,7 @@ I have 6 months experience as a developer creating solutions, writing software, 
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: If I could go back in time, I would love to experience my high-school graduation ceremony.
 
-Articles
+### Articles
 - [Unleashing creativity: Crafting compelling user stories and Acceptance creteria](https://medium.com/@osunkwodaniel24/unleashing-creativity-crafting-compelling-user-story-and-acceptance-criteria-articles-6785b68eb5a1)
 - [Software Development Cycle for a Health-care Management System](https://medium.com/@osunkwodaniel24/software-development-cycle-for-a-health-care-management-system-db89781524e8)
 - [Relationship/Difference between product manager and software developer](https://medium.com/@osunkwodaniel24/relationship-difference-between-product-manager-and-software-developer-c0832b39071c)  
