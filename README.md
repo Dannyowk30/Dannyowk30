@@ -3,7 +3,8 @@
 <!--
 **Dannyowk30/Dannyowk30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I'm a developer at the IT department of PMT, the largest mass transit and logistic company in West and Central Africa with over 3,000 vehicles and 5,000 manpower.
+I'm a developer at the IT department of PMT, the largest mass transit and logistic company in West and Central Africa with over 3,000 vehicles and 5,000 manpower and 
+currently the Lead QA Engineer (Quality Assurance) on CreateEnsemble, a nurturing and inspiring ethos-driven platform for emerging and established creatives of Arts and organizations to support one another.
 
 I have more than 2 years experience as a developer creating solutions, writing software, building teams and developing businesses with these technologies:
 
@@ -16,6 +17,7 @@ I have more than 2 years experience as a developer creating solutions, writing s
 - 📚 Daniel's blogs: [Dev.to](https://dev.to/daxxy) | [Hashnode.dev](https://daxxy.hashnode.dev/) | [Medium.com](https://medium.com/@osunkwodaniel24/)
 
 - 🔭 I’m currently working at [PMT.ng](https://pmt.ng/) as a developer.
+- 🔭 I’m currently working at [CreateEnsemble](https://createensemble.com/) as a Lead Quality Assurance Engineer.
 - 🌱 I’m currently learning API engineering | cloud engineering | Leadership.
 - 👯 I’m looking to collaborate on any project to create solutions with technology.
 - 🤔 I’m looking for help with UI/UX (Graphics Design).
