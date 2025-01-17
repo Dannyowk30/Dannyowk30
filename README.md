@@ -6,11 +6,11 @@
 I'm a developer at the IT department of PMT, the largest mass transit and logistic company in West and Central Africa with over 3,000 vehicles and 5,000 manpower and 
 currently the Lead QA Engineer (Quality Assurance) on CreateEnsemble, a nurturing and inspiring ethos-driven platform for emerging and established creatives of Arts and organizations to support one another.
 
-I have more than 2 years experience as a developer creating solutions, writing software, building teams and developing businesses with these technologies:
+I have more than 3 years experience as a developer creating solutions, writing software, building teams and developing businesses with these technologies:
 
 - Languages: HTML, CSS, JAVASCRIPT.
 - Frameworks: Bootstrap, Angular, React.
-- Tools: Git, Azure.
+- Tools: Git, Azure, Postman, Selenium.
 
 ### Summary
 
@@ -22,7 +22,7 @@ I have more than 2 years experience as a developer creating solutions, writing s
 - 👯 I’m looking to collaborate on any project to create solutions with technology.
 - 🤔 I’m looking for help with UI/UX (Graphics Design).
 - 💬 Ask me about creating a software to solve basic or complex problems.
-- 📫 How to reach me: [Twitter](https://twitter.com/el_daxxy).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-osunkwo-qaanalyst?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: If I could go back in time, I would love to experience my high-school graduation ceremony.
 
